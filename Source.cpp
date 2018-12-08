@@ -1,6 +1,6 @@
 #include<iostream>
-
 #define length 1000
+
 using namespace std;
 void walkThrow(int  a[length], int  b[length]);
 void logArray(int a[]);
@@ -25,7 +25,6 @@ int main() {
 			break;
 		}
 		x++;
-		
 	}
 	cout << "F" << x;
 	return 0;
