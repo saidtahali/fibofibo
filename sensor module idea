@@ -1,9 +1,12 @@
-<mxfile host="app.diagrams.net" modified="2020-12-29T12:57:56.444Z" agent="5.0 (Macintosh)" etag="qminfq_w0DxGHImZosd9" version="14.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2020-12-29T13:33:48.118Z" agent="5.0 (Macintosh)" etag="-EqYWUQaSaiNWLP_ue17" version="14.0.1" type="github">
   <diagram id="FWcFF8IPY0t7bS8IYI0D" name="Page-1">
-    <mxGraphModel dx="1892" dy="1096" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="1">
+    <mxGraphModel dx="3165" dy="1370" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="583" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-725" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-230.5" y="890" width="372" height="330" as="geometry" />
+        </mxCell>
         <mxCell id="cNaSOPcbTRFBM9H2W2x9-687" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
           <mxGeometry x="83" y="50" width="1257" height="550" as="geometry" />
         </mxCell>
@@ -1785,6 +1788,213 @@
         </mxCell>
         <mxCell id="cNaSOPcbTRFBM9H2W2x9-686" value="" style="triangle;whiteSpace=wrap;html=1;fontSize=8;direction=south;" vertex="1" parent="1">
           <mxGeometry x="1185" y="545" width="30" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-688" value="STM32F?" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-228.5" y="760" width="1880" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-689" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="681" y="600" width="70" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-712" value="Servo Drivers" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-218.5" y="1020" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-713" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-213.5" y="900" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-714" value="&lt;div&gt;Servo&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-208.5" y="1110" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-715" value="Servo Drivers" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-128.5" y="1020" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-716" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-123.5" y="900" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-717" value="&lt;div&gt;Servo&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-118.5" y="1110" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-718" value="Servo Drivers" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-38.5" y="1020" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-719" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-33.5" y="900" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-720" value="&lt;div&gt;Servo&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-28.5" y="1110" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-721" value="Servo Drivers" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="51.5" y="1020" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-722" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="56.5" y="900" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-723" value="&lt;div&gt;Servo&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="61.5" y="1110" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-726" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="145.5" y="890" width="372" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-727" value="Servo Drivers" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="1020" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-728" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="162.5" y="900" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-729" value="&lt;div&gt;Servo&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="167.5" y="1110" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-730" value="Servo Drivers" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="247.5" y="1020" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-731" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="252.5" y="900" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-732" value="&lt;div&gt;Servo&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="257.5" y="1110" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-733" value="Servo Drivers" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="337.5" y="1020" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-734" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="342.5" y="900" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-735" value="&lt;div&gt;Servo&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="347.5" y="1110" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-736" value="Servo Drivers" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="427.5" y="1020" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-737" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="432.5" y="900" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-738" value="&lt;div&gt;Servo&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="437.5" y="1110" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-739" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="524.5" y="890" width="372" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-740" value="Servo Drivers" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="536.5" y="1020" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-741" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="541.5" y="900" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-742" value="&lt;div&gt;Servo&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="546.5" y="1110" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-743" value="Servo Drivers" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="626.5" y="1020" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-744" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="631.5" y="900" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-745" value="&lt;div&gt;Servo&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="636.5" y="1110" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-746" value="Servo Drivers" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="716.5" y="1020" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-747" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="721.5" y="900" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-748" value="&lt;div&gt;Servo&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="726.5" y="1110" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-749" value="Servo Drivers" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="806.5" y="1020" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-750" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="811.5" y="900" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-751" value="&lt;div&gt;Servo&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="816.5" y="1110" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-752" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="901.5" y="890" width="372" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-753" value="Servo Drivers" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="913.5" y="1020" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-754" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="918.5" y="900" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-755" value="&lt;div&gt;Servo&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="923.5" y="1110" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-756" value="Servo Drivers" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1003.5" y="1020" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-757" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1008.5" y="900" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-758" value="&lt;div&gt;Servo&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1013.5" y="1110" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-759" value="Servo Drivers" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1093.5" y="1020" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-760" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1098.5" y="900" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-761" value="&lt;div&gt;Servo&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1103.5" y="1110" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-762" value="Servo Drivers" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1183.5" y="1020" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-763" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1188.5" y="900" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-764" value="&lt;div&gt;Servo&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1193.5" y="1110" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-765" value="" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1281.5" y="890" width="372" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-766" value="Servo Drivers" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1293.5" y="1020" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-767" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1298.5" y="900" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-768" value="&lt;div&gt;Servo&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1303.5" y="1110" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-769" value="Servo Drivers" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1383.5" y="1020" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-770" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1388.5" y="900" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-771" value="&lt;div&gt;Servo&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1393.5" y="1110" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-772" value="Servo Drivers" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1473.5" y="1020" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-773" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1478.5" y="900" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-774" value="&lt;div&gt;Servo&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1483.5" y="1110" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-775" value="Servo Drivers" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1563.5" y="1020" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-776" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=south;notch=0;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1568.5" y="900" width="70" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-777" value="&lt;div&gt;Servo&lt;/div&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="1573.5" y="1110" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-778" value="Power Managenebt 2 V" style="rounded=0;whiteSpace=wrap;html=1;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-420" y="215" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-779" value="3.3 V" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="620" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="cNaSOPcbTRFBM9H2W2x9-780" value="24V" style="whiteSpace=wrap;html=1;aspect=fixed;fontSize=8;" vertex="1" parent="1">
+          <mxGeometry x="-400" y="940" width="80" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
